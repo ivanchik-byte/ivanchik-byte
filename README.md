@@ -4,7 +4,8 @@ I build backend services, automation pipelines, and tools around the Telegram ec
 Right now, I am spending time with Go and Python.
 
 #### Stack & Tools
-Language: Python, Go, Pascal(why not). 
+Language: Python, Go, Pascal(why not)
+
 Tools: RestAPI, FastAPI, Telethon, Hydrogram, PostgreSQL, Docker, Playwright and more. 
 
 #### Links
