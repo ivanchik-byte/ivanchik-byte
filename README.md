@@ -33,6 +33,14 @@ Tools:
 ![](profile-summary-card-output/transparent/3-stats.svg)
 ![](profile-summary-card-output/transparent/4-productive-time.svg)
 
+### Contribution Activity:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="assets/github-snake-dark.svg" />
+</picture>
+
 ### Links:
 
 <p>
@@ -42,4 +50,8 @@ Tools:
   <a href="https://t.me/ivanchik_byte">
     <img src="https://img.shields.io/badge/RU_Telegram_Channel-%40ivanchik__byte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="RU Telegram Channel" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ivanchik-byte&color=0088cc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
