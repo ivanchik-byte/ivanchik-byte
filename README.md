@@ -48,7 +48,7 @@ I build backend services, automation pipelines, and tools around the Telegram ec
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="profile-summary-card-output/transparent/0-profile-details.svg" width="100%" alt="Profile Details" />
+      <img src="profile-summary-card-output/transparent/4-productive-time.svg" width="100%" alt="Commits" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="profile-summary-card-output/transparent/3-stats.svg" width="100%" alt="Stats" />
@@ -64,10 +64,6 @@ I build backend services, automation pipelines, and tools around the Telegram ec
   </tr>
 </table>
 
-<p align="center">
-  <img src="profile-summary-card-output/transparent/4-productive-time.svg" width="100%" alt="Productive Time" />
-</p>
-
 ### Contribution graph
 
 <picture>
@@ -77,5 +73,5 @@ I build backend services, automation pipelines, and tools around the Telegram ec
 </picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanchik-byte&color=0088cc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ivanchik-byte&color=0088cc&style=for-the-badge" alt="Profile Views" />
 </p>
